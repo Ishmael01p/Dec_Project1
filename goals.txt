@@ -1,0 +1,6 @@
+Goals for the following project:
+
+- Main Idea is an email send out Automation.
+- Given a list of emails
+-
+-
